@@ -1,1 +1,3 @@
 Now there is a new message
+
+and another line!
