@@ -1,1 +1,3 @@
 This is a file and there is text inside.
+
+There are multiple lines now from feature 1.
