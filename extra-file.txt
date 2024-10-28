@@ -1,0 +1,3 @@
+This is an extra file. It does not exist in staging. That should be a huge red flag and something that should stop the automated test and promotion workflow.
+
+We would ask "how did the file get on main, but not go through staging?" and trigger an investigation to remedy the situation.
